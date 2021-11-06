@@ -1,5 +1,5 @@
 ## rclip
-A command line tool which support copy a file contents to the system clipboard or copy the contents of the system clipboard to a file. 
+A command line tool which supports copy a file contents to the system clipboard or copy the contents of the system clipboard to a file. 
 
 ### Install 
 Install from github master branch using the following command.
